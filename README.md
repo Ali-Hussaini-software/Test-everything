@@ -81,6 +81,8 @@ H~2~O
 This is the first line.  
 And this is the second line.
 
+--- 
+
 > this is a random paragraph
 
 > heading1
@@ -103,4 +105,18 @@ And this is the second line.
 | Paragraph   | Text        | And more      |
 
 
+---
+
+> this is a random paragraph
+
+---
+
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+
+
+---
+## End of the README.md
 
