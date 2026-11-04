@@ -27,12 +27,80 @@ function helloWorld() {
 }
 ```
 
+---
 
 
+```html
+<html>
+
+  <head>
+
+  </head>
+
+  <body>
+
+  </body>
+
+</html>
+```
+---
+
+click [here](https://Ali-Hussaini-software.github.io/Test-everything) to open the website
+
+---
+
+![a text](../HTML/calculator/img/plus-solid-white.svg)
 
 
+---
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 
 
+|first-name | last-name |
+|---------- | --------- |
+|ali        |husaini    |
+|shahram    |wafei      |
+
+
+```python
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+[^1]: This is the footnote.
+
+H~2~O
+
+This is the first line.  
+And this is the second line.
+
+> this is a random paragraph
+
+> heading1
+>> heading2
+>>> heading3
+
+1. First item
+2. Second item
+3. Third item
+    1. Indented item
+    2. Indented item
+4. Fourth item
+
+
+---
+
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
 
 
 
